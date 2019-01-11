@@ -11,3 +11,5 @@ This bundle offers a comprehensive API library that let's you integrate easily w
 1. [Installation]()
 2. [Configuration]()
 3. [How to Use?]()
+4. [Docs]()
+5. [Contributions]()
